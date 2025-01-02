@@ -1,6 +1,6 @@
 # DNA Lab FNO - Genetics & Bioinformatics: Empowering Precision Medicine 🧬  
 
-Welcome to the **DNA Lab at University Hospital Ostrava (In czech: Fakultní Nemocnice Ostrava (FNO))**!  
+Welcome to the **DNA Lab at University Hospital Ostrava (In czech: Fakultní Nemocnice Ostrava (FNO))** !!!  
 We are a multidisciplinary team of bioinformaticians, geneticists, and researchers dedicated to advancing genomic science and its applications in clinical diagnostics and research.  
 
 ---
