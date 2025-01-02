@@ -49,7 +49,7 @@ We actively collaborate with:
 ## 📚 Knowledge Sharing  
 
 At DNA Lab FNO, we are passionate about sharing our expertise:  
-- **Workshops:** Hands-on bioinformatics training for researchers and clinicians.  
+- **Workshops:** Hands-on bioinformatics training for researchers and clinicians.   ... @PetaC_???
 - **Publications:** 
    .........
    .........
