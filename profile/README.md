@@ -35,8 +35,8 @@ We specialize in developing **custom pipelines** for:
 
 ### Research Focus  
 Our research spans multiple domains, including:  
-- **Cancer genomics**: Identifying biomarkers for precision oncology.  
-- **Epigenetics**: Exploring methylation patterns and their implications.  
+- **Epigenetics**: ...
+- **Multi-OMICs**: ... 
 - **Pathogen genomics**: Supporting public health through infectious disease analysis.  
 
 ### Collaboration  
